@@ -14,7 +14,7 @@ export default function Hero() {
     <section className="relative min-h-screen flex items-center justify-center">
       {/* Background Image */}
       <img
-        src="/public/images/b3.jpg"
+        src="https://res.cloudinary.com/drripqsdg/image/upload/v1763279719/b3_dywlnu.jpg"
         alt="Ekanayaka Spices"
         className="absolute inset-0 w-full h-full object-cover"
       />
@@ -24,7 +24,7 @@ export default function Hero() {
       {/* Content */}
       <div className="relative text-center max-w-2xl bg-white/70 backdrop-blur-md rounded-xl p-10 shadow-lg">
   <img
-        src="/public/images/b4.jfif"
+        src="https://res.cloudinary.com/drripqsdg/image/upload/v1763279643/b4_rvuznf.jpg"
         alt="logo"
         className="w-16 h-16 mx-auto mb-4 rounded-full object-cover"
       />
